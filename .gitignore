@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+notebooks/
+.env
+*.h5
+*.pt
+venv/
+.DS_Store
